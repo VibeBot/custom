@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "basicBot";
+    var fork = "VibeBot";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
-      website: null,
+      website: www.gta-sarp.com,
       intervalMessages: [],
       messageInterval: 5,
       songstats: true,
